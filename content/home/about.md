@@ -12,3 +12,6 @@ title = "Biography"
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
 author = "admin"
 +++
+
+# Biography
+Yujun Zhou is a PhD. student in Agricultural & Consumer Economics at the University of Illinois at Urbana-Champaign, under the supervision of Professor [Kathy Baylis](https://ace.illinois.edu/directory/baylis). His research focuses on agricultural policy and food security in Sub-Saharan African countries. He is proficient in causal inference and machine learning and makes use of the best tools in both worlds.
