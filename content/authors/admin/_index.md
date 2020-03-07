@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Yujun Zhou
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Ph.D. candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Illinois, Urbana-Champaign
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I use causal inference and machine learning to draw insights from data
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Causal Inference
+- Development Economics
+- Machine Learning
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Ph.D. in Agricultural and Consumer Economics
+    institution: University of Illinois, Urbana-Champaign
+    year: 2020
+  - course: M.S. in Applied Economics
+    institution: University of California, Davis
+    year: 2014
+  - course: B.A. in Economics
+    institution: Nanjing University
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +44,14 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: mailto:zhouyujun001@gmail.com  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=1c8nq8EAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/zhou100
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +68,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Yujun Zhou is a Ph.D. student in Agricultural & Consumer Economics at the University of Illinois at Urbana-Champaign, under the supervision of Professor [Kathy Baylis](https://ace.illinois.edu/directory/baylis). His research focuses on agricultural policy and food security in Sub-Saharan African countries. He is proficient in causal inference and machine learning and makes use of the best tools in both worlds.

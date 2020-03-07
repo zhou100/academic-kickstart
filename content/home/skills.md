@@ -16,7 +16,7 @@ subtitle = ""
 
 [[feature]]
   icon = "link"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Causal Inference"
   description = "100%"
 
@@ -27,7 +27,7 @@ subtitle = ""
   description = "100%"  
 
 [[feature]]
-  icon = "analytics"
+  icon = "chart-pie"
   icon_pack = "fas"
   name = "Data Analytics"
   description = "100%"
