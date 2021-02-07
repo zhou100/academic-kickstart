@@ -1,13 +1,14 @@
 ---
-title: Predicting Food Security with Machine Learning
+title: Machine learning for food security: Principles for transparency and usability
 author: Yujun
 date: "2019-12-12"
+publication: under review at an Applied Economics Journal
 slug: predicting-food-security-with-machine-learning
 categories: []
 tags: []
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors: ["**Yujun Zhou**","Kathy Baylis","Erin Lentz", "Hope Michelson"]
+authors: ["**Yujun Zhou**","Kathy Baylis","Erin Lentz", "Hope Michelson","Chungmann Kim"]
 
 
 # Publication type.
@@ -23,8 +24,7 @@ publication_types : ["3"]
 
 # Abstract and optional shortened version.
 
-abstract: Hunger is on the rise throughout Africa, with famine threatening millions across several countries. Rapid and accurate identification of food insecurity crises can enable humanitarian responses to mitigate casualties from hunger and save lives. We develop a predictive model of food security based on readily available, spatially granular data on prices, geography, and demographics. Using machine learning techniques, we are able to improve the accuracy of predicting those villages that face a potential threat of hunger. As with any rare event, one challenge with predicting food insecurity is the low rate of severe food insecurity in the baseline data.  We use several different approaches to address this imbalance to allow us to capture a higher fraction of these rare events.  We apply our procedure to three sub-Saharan African
-countries: Malawi, Tanzania, and Uganda to predict food security in out-of-sample villages. Bearing in mind the possible spatial-temporal correlations between observations in the training and testing set, we use a nested cross-validation method on year-split data to get a more robust result.  We correctly identify up to 40 percent of the most food-insecure clusters, when the baseline model using a logistic regression did not detect any of them.  Our result shows that a data-driven model with the help of machine learning methods can significantly improve its performance on capturing the food insecure households despite the imbalance in the data.  Our paper demonstrates that this approach could be used in a scalable, automatically updated prediction model that could enhance the current famine early warning systems.
+abstract: Machine learning (ML) holds potential to predict hunger crises before they occur.  Yet, ML models embed crucial choices that affect their utility.  We develop a prototype model to predict food insecurity across three countries in sub-Saharan Africa.  Readily available data on prices, assets and weather all influence our model predictions.  Our model obtains 55-84% accuracy, substantially outperforming a logit and ML models using only time and location.  We highlight key principles for transparency and demonstrate how modeling choices between recall and accuracy can be tailored to policy-maker needs.  Our work provides a path for future modeling efforts in this area.
 
 # abstract_short : "A short version of the abstract."
 

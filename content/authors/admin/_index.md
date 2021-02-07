@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. candidate
+role: Data Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: University of Illinois, Urbana-Champaign
+- name: Facebook
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I use causal inference and machine learning to draw insights from data
+bio: Currently works at Facebook Applied AI Research as a Data Scientist. Trained in Applied Economics and Machine Learning.
 
 interests:
 - Causal Inference
@@ -68,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-Yujun Zhou is a Ph.D. student in Agricultural & Consumer Economics at the University of Illinois at Urbana-Champaign, under the supervision of Professor [Kathy Baylis](https://ace.illinois.edu/directory/baylis). His research focuses on agricultural policy and food security in Sub-Saharan African countries. He is proficient in causal inference and machine learning and makes use of the best tools in both worlds.
+Yujun Zhou currently works at Facebook Applied AI Research as a Data Scientist. He got his Ph.D. in Agricultural & Consumer Economics at the University of Illinois at Urbana-Champaign, under the supervision of Professor [Kathy Baylis](https://ace.illinois.edu/directory/baylis). He is proficient in causal inference and machine learning and makes use of the best tools in both worlds.
