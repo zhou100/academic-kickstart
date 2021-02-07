@@ -1,5 +1,5 @@
 ---
-title: Machine learning for food security: Principles for transparency and usability
+title: "Machine learning for food security: Principles for transparency and usability"
 author: Yujun
 date: "2019-12-12"
 publication: "under review at an Applied Economics Journal"
@@ -20,7 +20,7 @@ authors: ["**Yujun Zhou**","Kathy Baylis","Erin Lentz", "Hope Michelson","Chungm
 # 4 : Technical report
 # 5 : Book
 # 6 : Book chapter
-publication_types : ["3"]
+publication_types : ["2"]
 
 # Abstract and optional shortened version.
 
