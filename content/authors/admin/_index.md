@@ -68,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-Yujun Zhou currently works at Facebook Applied AI Research as a Data Scientist. He got his Ph.D. in Agricultural & Consumer Economics at the University of Illinois at Urbana-Champaign, under the supervision of Professor [Kathy Baylis](https://ace.illinois.edu/directory/baylis). He is proficient in causal inference and machine learning and makes use of the best tools in both worlds.
+Yujun Zhou currently works at Facebook Applied AI Research as a Data Scientist. He got his Ph.D. in Agricultural & Consumer Economics at the University of Illinois at Urbana-Champaign, under the supervision of Professor [Kathy Baylis](https://www.geog.ucsb.edu/people/faculty/kathy-baylis). He is proficient in causal inference and machine learning and makes use of the best tools in both worlds.
