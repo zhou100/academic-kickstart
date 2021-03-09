@@ -1,8 +1,8 @@
 ---
 title: "Machine learning for food security: Principles for transparency and usability"
 author: Yujun
-date: "2019-12-12"
-publication: "under review at an Applied Economics Journal"
+date: "2021-03-08"
+publication: "Applied Economic Perspectives and Policy."
 slug: predicting-food-security-with-machine-learning
 categories: []
 tags: []
@@ -43,7 +43,7 @@ projects : ["food-security"]
 # Links (optional).
 url_pdf : ""
 url_preprint : ""
-url_code : ""
+url_code : "https://github.com/zhou100/FoodSecurityPrediction"
 url_dataset : ""
 url_project : ""
 url_slides : ""
